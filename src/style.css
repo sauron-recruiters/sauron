@@ -1,0 +1,38 @@
+@font-face{
+    font-family: 'JMH Wolfa';
+    src: local('JMH Wolfa'),
+        url('/fonts/jmh_wolfa/JMH Wolfa.ttf') format('ttf')
+}
+
+@font-face{
+    font-family: 'Wolfsburg-Regular';
+    src: local('Wolfsburg-Regular'),
+        url('/fonts/Wolfsburg-Regular')
+}
+
+@font-face {
+    font-family: 'Half-Elven';
+    src: local('Half-Elven'),
+         url('/fonts/half_elven/halfelven.ttf') format('ttf'),
+}
+
+@font-face {
+    font-family: 'halfelven3d';
+    src: local('halfelven3d'),
+         url('/fonts/half_elven/halfelven3d.ttf') format('ttf'),
+}
+
+@font-face {
+    font-family: 'LORD OF THE RING';
+    src: local('LORD OF THE RING'),
+         url('/fonts/lord_of_the_ring/LORD\ OF\ THE\ RING.otf') format('otf'),
+}
+
+* {
+    @import url("./fonts/vtc_goblin_hand/VTCGoblinHand.ttf");
+    font-family: 'Source Sans Pro';
+}
+
+.halfElven{
+    font-family: 'Half-Elven'
+}
