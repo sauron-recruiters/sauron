@@ -1,4 +1,4 @@
-import splash from '../assets/sauron.gif'
+import splash from '/sauron.gif'
 import { Box, Image } from '@chakra-ui/react'
 
 export const Video = () => (
